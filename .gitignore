@@ -1,2 +1,4 @@
 .venv
 __pycache__
+index.json
+sorted_transactions.csv
